@@ -1,0 +1,22 @@
+body{background-color: white;} 
+
+#container{width:100%; background-color: bisque;} 
+
+#kopfbereich{background-image: url(porsche_911_gt3.jpg); height: 550px; width: 100%;font-size: 20px;}
+    
+#beschreibung{background-image: url(porsche_911_gt3_v2.jpg); height: 550px; width: 100%; font-size: 20px;} 
+
+#funktionen{background-image: url(porsche_911_gt3_v3.jpg); height: 550px; width: 100%;font-size: 20px;} 
+
+#preise{background-image: url(porsche_911_gt3_v4.jpg); height: 550px; width: 100%;font-size: 20px;} 
+
+#fußbereich{background-image: url(porsche_911_gt3_v5.jpg); height: 550px;font-size: 20px;} 
+
+h1{text-align: center; height: 50px;font-size: 48px;}
+.ankerlink{text-align: center;}
+h2{text-align: center; color: palegreen;font-size: 32px;}
+h3{color: turquoise;font-size: 24px;}
+p{color: orange; text-align: block;}
+table{color: orange;}
+
+

@@ -1,0 +1,27 @@
+.center  { text-align: center; font-size: 32px;}
+.center2  { text-align: center; font-size: 28px; font-weight: bold;}
+.p1 {margin-left: 40px;}
+.tclass1 {text-align: center; font-size: 36px; margin-left: 160px;}
+.headt {margin-left: 180px; font-size: 24px; color: rgb(16, 49, 82);}
+.ol1 {list-style-type: decimal; line-height: 4px; font-size: 18px; margin-left: 80px; font-weight: bold;}
+
+
+h1{color:greenyellow;}
+
+body {
+    background-color: rgb(193, 255, 252);
+  }
+
+#container {background-color: pink;width: 1000px; height:1500px;
+    margin-left:auto;margin-right:auto;border:solid black;
+}
+
+#nav_container{height:100px;background-color:brown; position:fixed;}
+
+#navigation {display:block;background:darkslateblue;height:300px;width:150px;float:left}
+
+#nav_ul {display:inline;}
+
+.nav_link {background-color: darkslategray;font-family: "Times New Roman", Times, serif;
+    list-style-type: none;}
+
