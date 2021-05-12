@@ -1,0 +1,33 @@
+body { background-image: url("bilder/Sternenhimmel.jpg") ;}
+
+#container {width: 80%; margin: auto; padding: 100px;}
+
+#first {text-align: center; color: white;}
+
+#beschreibung {background-color: rgb(140, 140, 252); padding: 20px; margin: 50px; border-style: outset; border-width: 10px; border-color: rgb(63, 63, 179);}
+
+#funktionen {background-color: rgb(63, 179, 140);padding: 20px;margin: 50px; border-style: outset; border-width: 10px; border-color: rgb(23, 104, 77)}
+
+#preise {background-color: rgb(212, 92, 92);padding: 20px; margin: 50px; border-style: outset; border-width: 10px; border-color: rgb(163, 23, 23)}
+
+#impressum {background-color: rgb(129, 62, 129);padding: 20px; margin: 50px; border-style: outset; border-width: 10px; border-color: rgb(122, 34, 122)}
+
+h1 { font-style:oblique; font-size: 70px; font-variant: small-caps; -webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;}
+
+h2 {font-style:oblique; font-size: 30px; font-variant: small-caps;}
+
+a { font-size: 1.5em; padding-inline: 10px;}    
+
+#links {background-color: white; margin: 70px; border-style: outset; border-width: 5px; border-color: rgb(170, 170, 170)}
+
+@-webkit-keyframes glow {
+    from {
+      text-shadow: 0 0 10px rgb(151, 52, 52), 0 0 20px rgb(189, 60, 60), 0 0 30px #d11111, 0 0 40px #e60000, 0 0 50px #dd3939, 0 0 60px #800b0b, 0 0 70px #d63838;
+    }
+    to {
+      text-shadow: 0 0 20px rgb(95, 81, 230), 0 0 30px #6250cc, 0 0 40px #5c5dce, 0 0 50px #4d8bff, 0 0 60px #7a72ee, 0 0 70px #4d8bff, 0 0 80px #4d68ff;
+    }
+
+
